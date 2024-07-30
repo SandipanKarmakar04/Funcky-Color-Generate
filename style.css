@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+#start{
+    background-color: teal;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 70px;
+}
+#stop{
+    background-color: teal;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 70px;
+}
